@@ -35,7 +35,7 @@ This project is a gRPC-based Book Management System implemented in Java. It incl
    You can run the gRPC server using the following command:
 
     ```bash
-    ./gradlew runServer'
+    ./gradlew runServer
     ```
 
    
@@ -45,7 +45,7 @@ This project is a gRPC-based Book Management System implemented in Java. It incl
    To interact with the server, run the `BookClient`:
 
     ```bash
-    ./gradlew runClient'
+    ./gradlew runClient
     ```
 
 
